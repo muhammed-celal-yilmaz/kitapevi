@@ -1,0 +1,3 @@
+Kullanıcı adı:admin
+şifre:12345
+django frameworkle küçük bir proje
